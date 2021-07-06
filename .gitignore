@@ -1,0 +1,12 @@
+*.tar
+Pytorch_VGGFACE.pth
+__pycache__/
+env/
+mp4/
+txt/
+.idea/
+venv/
+loss/__pycache__/
+network/__pycache__/
+webcam_demo/__pycache__/
+*.pyc
